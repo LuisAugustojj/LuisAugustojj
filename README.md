@@ -22,7 +22,7 @@ stats](https://github-readme-stats.vercel.app/api?username=LuisAugustojj&show_ic
 
   ## contact:
   Email: luisaugustofcavalcante@outlook.com
-  <p>Telefones: (81) 99893-2871 / (81) 99352-5849
+  <p>Telephone: (81) 99893-2871 / (81) 99352-5849
 
   ##
   <p>I don't play just to play,i came to make history.</p>
