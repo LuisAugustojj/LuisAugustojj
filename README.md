@@ -5,7 +5,7 @@
 
 ![Luis AugustoGitHub
 stats](https://github-readme-stats.vercel.app/api?username=LuisAugustojj&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisAugustojj&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=&layout=compact)
 
 ## Languages i use.
 <div style="display: inline_block">
